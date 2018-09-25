@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/events/</link>
+    <description>Recent content in Events on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://redhatgov.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Defense In Depth</title>
+      <link>http://redhatgov.io/events/20181113-defense-in-depth-22a1a9d095fe096fea043af9ffb2c9e6/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181113-defense-in-depth-22a1a9d095fe096fea043af9ffb2c9e6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20181107-devsecops-workshop-c4be824ed036f1faa66072f86661ffd0/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181107-devsecops-workshop-c4be824ed036f1faa66072f86661ffd0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20181030-devsecops-workshop-18c64da5e47ef8bd194e7ede8def48af/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181030-devsecops-workshop-18c64da5e47ef8bd194e7ede8def48af/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20181023-devsecops-workshop-14cd645b598433241b5999557f237021/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181023-devsecops-workshop-14cd645b598433241b5999557f237021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Workshop</title>
+      <link>http://redhatgov.io/events/20181011-ansible-workshop-75e99e9853c2092a97090161c5f97472/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181011-ansible-workshop-75e99e9853c2092a97090161c5f97472/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20181004-devsecops-workshop-e52dd2568ff4ee56c3ce1188e1883f00/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181004-devsecops-workshop-e52dd2568ff4ee56c3ce1188e1883f00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20181002-devsecops-workshop-ea7d55419254ecdc498d4d1c08f8f21d/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181002-devsecops-workshop-ea7d55419254ecdc498d4d1c08f8f21d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Defined Storage and Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180926-software-defined-storage-and-automation-workshop-649393e23322212c028f1bc466bc7b31/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180926-software-defined-storage-and-automation-workshop-649393e23322212c028f1bc466bc7b31/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
